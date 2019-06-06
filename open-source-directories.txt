@@ -1,0 +1,5 @@
+-- Open source drug directories:
+-- NDC: https://www.fda.gov/drugs/drug-approvals-and-databases/national-drug-code-directory
+-- rxnorm: https://mor.nlm.nih.gov/download/rxnav/RxNormAPIs.html#
+-- rxnorm: https://www.nlm.nih.gov/research/umls/rxnorm/
+-- ICD-10: https://www.cms.gov/Medicare/Coding/ICD10/2019-ICD-10-CM.html
