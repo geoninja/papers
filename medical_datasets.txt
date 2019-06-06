@@ -1,0 +1,21 @@
+# NER datasets and procedures for clinical annotation
+
+# JOURNAL OF MEDICAL INTERNET RESEARCH
+
+Web 2.0-Based Crowdsourcing for High-Quality Gold Standard Development in Clinical Natural Language Processing
+Haijun Zhai*, PhD;  Todd Lingren*, MA;  Louise Deleger, PhD;  Qi Li, PhD;  Megan Kaiser, BA;  Laura Stoutenborough, BSN;  Imre Solti, MD, PhD
+
+Using Nonexperts for Annotating Pharmacokinetic Drug-Drug Interaction Mentions in Product Labeling: A Feasibility Study
+Harry Hochheiser et al., JMIR Res Protoc
+
+Automatically Detecting Failures in Natural Language Processing Tools for Online Community Text
+Albert Park et al., J Med Internet Res
+
+Natural Language Processing–Enabled and Conventional Data Capture Methods for Input to Electronic Health Records: A Comparative Usability Study
+David R. Kaufman et al., JMIR Med Inform
+
+Finding Important Terms for Patients in Their Electronic Health Records: A Learning-to-Rank Approach Using Expert Annotations
+Jinying Chen et al., JMIR Med Inform
+
+Ranking Medical Terms to Support Expansion of Lay Language Resources for Patient Comprehension of Electronic Health Record Notes: Adapted Distant Supervision Approach
+Jinying Chen et al., JMIR Med Inform
