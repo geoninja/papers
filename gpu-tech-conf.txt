@@ -1,0 +1,34 @@
+NVIDIA GTU tech conference
+
+2018 videos
+
+http://on-demand.gputechconf.com/gtc/2018/video/S8954/
+http://on-demand.gputechconf.com/gtc/2018/video/S8866/
+http://on-demand.gputechconf.com/gtc/2018/video/S8919/
+http://on-demand.gputechconf.com/gtc/2018/video/S8940/
+http://on-demand.gputechconf.com/gtc/2018/video/S8471/
+http://on-demand.gputechconf.com/gtc/2018/presentation/s8295-frontiers-of-ai-in-medical-imaging-overcoming-current-challenges-and-moving-beyond-classification.pdf
+http://on-demand.gputechconf.com/gtc/2018/video/S8647/
+http://on-demand.gputechconf.com/gtc/2018/video/S8428/
+http://on-demand.gputechconf.com/gtc/2018/presentation/s8251-learning-normalized-inputs-for-iterative-estimation-in-medical-image-segmentation.pdf
+http://on-demand.gputechconf.com/gtc/2018/video/S8871/
+
+
+call for paper: June to September
+Women in DL & AI accelerator
+AccelAI
+
+
+NVIDIA courses:
+
+>> Medical Image Classification Using the MedNIST Dataset $30 (2h)
+https://courses.nvidia.com/courses/course-v1:DLI+L-HX-07+V1/about
+
+>> Modeling Time Series Data with Recurrent Neural Networks in Keras free (2h)
+https://courses.nvidia.com/courses/course-v1:DLI+L-HX-05+V1/about
+
+Medical Image Segmentation with DIGITS $30 (2h)
+https://courses.nvidia.com/courses/course-v1:DLI+L-HX-04+V1/about
+
+Data Augmentation and Segmentation with Generative Networks for Medical Imaging $30 (2h)
+https://courses.nvidia.com/courses/course-v1:DLI+L-HX-09+V1/about
